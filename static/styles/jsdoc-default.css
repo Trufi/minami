@@ -244,6 +244,10 @@ footer {
   color: #aaa
 }
 
+.members__name, .method__name {
+  margin-top: 2em ;
+}
+
 .name, .signature {
   font-family: Consolas, Monaco, 'Andale Mono', monospace
 }
